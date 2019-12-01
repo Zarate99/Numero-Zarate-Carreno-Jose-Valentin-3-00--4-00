@@ -50,4 +50,4 @@ public class Numero {
 
     }  // cierre del método
 
-}
+} // cierre clase principal
