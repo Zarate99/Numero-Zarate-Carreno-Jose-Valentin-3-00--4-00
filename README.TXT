@@ -1,5 +1,5 @@
 #########################################################################
-Este proyecto consiste en crear una clase con un método que nos permite
+Este programa consiste en crear una clase con un método que nos permite
 sabre si un numero que introducimos es positivo, negativo o es un cero.
 Consiste en una sola clase con un solo método que hace esta evaluación.
 #########################################################################
