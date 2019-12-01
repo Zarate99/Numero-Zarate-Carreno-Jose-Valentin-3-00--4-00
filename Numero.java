@@ -9,9 +9,17 @@ import java.util.Scanner;  // Se importa la librería Scanner
 /**
  *
  * @author José Valentín Zarate Carreño
+ * @version  01/12/2019
+ */
+
+
+/** Declaracion de la clase Numero
  */
 public class Numero {
 
+    
+/** main 
+ */
     public static void main(String[] args) { // inicio del main
 
         Numero n = new Numero(); // se instancia la clase
@@ -19,6 +27,9 @@ public class Numero {
 
     }  // cierre del main
 
+    /** Metodo que determina los singos de un numero dado.
+     * 
+     */
     public void DeterminarNumero() { // se inicia el método
 
         Scanner sc = new Scanner(System.in); //Declaración del Scanner para leer el teclado
